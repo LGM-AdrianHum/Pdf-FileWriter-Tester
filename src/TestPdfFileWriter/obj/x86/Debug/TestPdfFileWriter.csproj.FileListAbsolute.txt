@@ -1,0 +1,17 @@
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\TestPdfFileWriter.exe.config
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\TestPdfFileWriter.exe
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\TestPdfFileWriter.pdb
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\PdfFileWriter.dll
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\PdfFileWriter.pdb
+C:\repos\PdfFileWriter\TestPdfFileWriter\bin\Debug\PdfFileWriter.xml
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.csprojAssemblyReference.cache
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.DrawGlyphForm.resources
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.EnumFontFamilies.resources
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.FontInfoForm.resources
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.Properties.Resources.resources
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.TestPdfFileWriter.resources
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.csproj.GenerateResource.cache
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.csproj.CoreCompileInputs.cache
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.csproj.CopyComplete
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.exe
+C:\repos\PdfFileWriter\TestPdfFileWriter\obj\x86\Debug\TestPdfFileWriter.pdb

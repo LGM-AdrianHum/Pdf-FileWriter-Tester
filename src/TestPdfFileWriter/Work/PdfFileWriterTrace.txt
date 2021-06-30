@@ -1,0 +1,11 @@
+2018/08/10 12:46:22 ----
+2018/08/10 12:46:22 PdfFileWriter-Revision 1.20.0 2018/07/15-© 2013-2018 Uzi Granot
+2018/08/10 12:47:14 The process cannot access the file 'C:\repos\PdfFileWriter\TestPdfFileWriter\Work\ArticleExample.pdf' because it is being used by another process.
+2018/08/10 12:47:14    at PdfFileWriter.PdfDocument.ConstructorHelper(Double Width, Double Height, Double ScaleFactor, String FileName, Stream OutputStream) in C:\repos\PdfFileWriter\PdfFileWriter\PdfDocument.cs:line 705
+2018/08/10 12:47:14    at PdfFileWriter.PdfDocument..ctor(PaperType PaperType, Boolean Landscape, UnitOfMeasure UnitOfMeasure, String FileName) in C:\repos\PdfFileWriter\PdfFileWriter\PdfDocument.cs:line 610
+2018/08/10 12:47:14    at TestPdfFileWriter.ArticleExample.Test(Boolean Debug, String FileName) in C:\repos\PdfFileWriter\TestPdfFileWriter\ArticleExample.cs:line 61
+2018/08/10 12:47:14    at TestPdfFileWriter.TestPdfFileWriter.OnArticleExample(Object sender, EventArgs e) in C:\repos\PdfFileWriter\TestPdfFileWriter\TestPdfFileWriter.cs:line 94
+2018/08/10 12:47:24 PDF file writer is closing
+2018/08/10 12:51:53 ----
+2018/08/10 12:51:53 PdfFileWriter-Revision 1.20.0 2018/07/15-© 2013-2018 Uzi Granot
+2018/08/10 12:52:15 PDF file writer is closing

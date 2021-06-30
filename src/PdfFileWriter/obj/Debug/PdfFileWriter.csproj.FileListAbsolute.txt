@@ -1,0 +1,7 @@
+C:\repos\PdfFileWriter\PdfFileWriter\bin\Debug\PdfFileWriter.XML
+C:\repos\PdfFileWriter\PdfFileWriter\bin\Debug\PdfFileWriter.dll
+C:\repos\PdfFileWriter\PdfFileWriter\bin\Debug\PdfFileWriter.pdb
+C:\repos\PdfFileWriter\PdfFileWriter\obj\Debug\PdfFileWriter.csprojAssemblyReference.cache
+C:\repos\PdfFileWriter\PdfFileWriter\obj\Debug\PdfFileWriter.csproj.CoreCompileInputs.cache
+C:\repos\PdfFileWriter\PdfFileWriter\obj\Debug\PdfFileWriter.dll
+C:\repos\PdfFileWriter\PdfFileWriter\obj\Debug\PdfFileWriter.pdb
